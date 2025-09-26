@@ -1,2 +1,2 @@
-# ai-interview-bot
+# AI-interview-bot
 A prototype AI interview bot using LLaMA3, Groq API and Gradio.
