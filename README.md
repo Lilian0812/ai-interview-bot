@@ -7,9 +7,12 @@ It generates interview questions based on user background and provides instant f
 - Collect user background: position, introduction, skills, project experience
 - Generate job-specific interview questions
 - Provide structured feedback on answers:
-  - Logic & clarity
+  - Logic
   - Completeness
+  - Persuasiveness
   - Professionalism
   - Use of examples
 - Score each answer (0–10) and suggest improvements
 - Interactive chatbot interface built with Gradio
+
+## 
