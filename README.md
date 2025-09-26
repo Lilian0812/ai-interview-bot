@@ -15,4 +15,6 @@ It generates interview questions based on user background and provides instant f
 - Score each answer (0–10) and suggest improvements
 - Interactive chatbot interface built with Gradio
 
-## 
+## Demo
+1. Enter personal information
+![Step 1](images/demo1.png)
