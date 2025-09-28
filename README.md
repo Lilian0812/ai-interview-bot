@@ -35,8 +35,12 @@ It generates interview questions based on user background and provides instant f
 ![Step 6](images/demo6.png)
 
 ## How to Run
-1. Open "AI_Interview_Coach.ipynb" in Google Colab
-2. Enter your Groq API Key 
+You can run the notebook directly on Google Colab:  
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lilian0812/ai-interview-coach/blob/main/AI_Interview_Coach_.ipynb)
+
+1. Click the **Open in Colab** button above to launch the notebook 
+2. Enter your **Groq API Key**
 3. Run all cells in order  
 4. Launch the Gradio app and start practicing interviews
 
